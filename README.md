@@ -1,4 +1,4 @@
-# React Job Listings Project
+# React Job Listing Project
 
 ## Table of contents
 - [About](#about)
