@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "6a87",
+      "title": "Testi 1",
+      "type": "Full-Time",
+      "location": "jämsä",
+      "description": "Kvaus1",
+      "salary": "Under $50K",
+      "company": {
+        "name": "yrityksen nimi",
+        "description": "yrityksen kuvaus",
+        "contactEmail": "email@tes.ti",
+        "contactPhone": "543534"
+      }
     }
   ]
 }
