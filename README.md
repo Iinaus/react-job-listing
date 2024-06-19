@@ -11,6 +11,12 @@ This code is from the [React Crash Course 2024](https://www.youtube.com/watch?v=
 
 The project uses [Vite](https://vitejs.dev/) as the build tool and JSON-Server for a mock backend.
 
+With this exercise, we practiced:
+- Using React Hooks (useState, useEffect)
+- Using React Router and its hooks (useParams, useNavigate)
+- Using data loader
+- Setting up JSON-Server and making API calls from the frontend
+
 ## Getting started
 
 Instructions on how to set up and run the project. Make sure you have [Node.js](https://nodejs.org/) installed.
